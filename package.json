@@ -1,0 +1,19 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "express": "^4.16.4",
+    "jquery": "^3.4.1",
+    "mini-css-extract-plugin": "^0.6.0",
+    "next": "^8.1.0",
+    "nodemon": "^1.18.11",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "4.4.0"
+  }
+}

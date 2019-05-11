@@ -1,0 +1,17 @@
+{
+    "exec"  :   "babel-node",
+    "watch" :   
+    [
+        "components/*",
+        "server.js",
+        "pages/*",
+        "next.config.js"
+    ],
+    "ignore":   
+    [
+        "node_modules",
+        ".git",
+        ".next"
+    ],
+    "ext"   :   "js json"
+}
