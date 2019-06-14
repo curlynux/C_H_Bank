@@ -12,7 +12,7 @@ class Home extends Component {
         < Navbar />
         <h2>dzoeincpezzz</h2>
         <p>salut !</p>
-        <h1 className="title is-h1" height="60px" >welcome at Curlynux & Hamateratsu bank !</h1>
+        <h1 className="title is-h1" height="60px" >@Sthdrddducdfgggffuku!;'(-_è_çres__ aime</h1>
       </div>
     )
   }

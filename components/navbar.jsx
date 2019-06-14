@@ -1,7 +1,7 @@
 import $ from "jquery";
 import React, { Component } from "react";
 import Link from "next/link";
-
+import about from "../pages/about";
 class Navbar extends Component {
 
   componentDidMount() {
@@ -49,9 +49,11 @@ class Navbar extends Component {
             Jobs
           </div>
 
-          <div className="navbar-item">
+          <Link href="/about">
+            <a className="navbar-item">
             About
-          </div>
+          </a>
+          </Link>
         </div>
 
         <div className="navbar-end">
