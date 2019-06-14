@@ -37,10 +37,11 @@ class Navbar extends Component {
 
       <div className="navbar-menu">
         <div className="navbar-start">
-          <div className="navbar-item">
+          <Link href="/index">
+          <a className="navbar-item">
             Home
-          </div>
-
+          </a>
+          </Link>
           <div className="navbar-item">
             Account
           </div>
@@ -51,7 +52,7 @@ class Navbar extends Component {
 
           <Link href="/about">
             <a className="navbar-item">
-            About
+            About us
           </a>
           </Link>
         </div>
