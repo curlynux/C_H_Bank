@@ -35,7 +35,7 @@ curlynux_hardware.fr est fait pour vous !
 <p>en moins de 5 minutes vous trouvez votre bonheur !
 
 tout le monde y trouve son compte ! étudiant, salarié, demandeur d'emploi, école, centre de formation, entreprises.</p>
-<br/>
+<br/> 
 </div>
             </div>
         )
